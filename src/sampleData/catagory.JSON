@@ -1,0 +1,56 @@
+[
+    {
+        "key": 1,
+        "title":"Dress & Frock ",
+        "amount": 53,
+        "img": "/src/assets/images/icons/dress.svg"
+},
+{
+    "key":21,
+    "title":"Winter Wear ",
+    "amount": 58,
+    "img": "/src/assets/images/icons/coat.svg"
+},
+{
+    "key": 3,
+    "title":"Glass & Lens ",
+    "amount": 68,
+    "img": "/src/assets/images/icons/glasses.svg"
+},
+{
+    "key": 4,
+    "title":"Shorts & Jeans ",
+    "amount": 84,
+    "img": "/src/assets/images/icons/shorts.svg"
+},
+{
+    "key": 4,
+    "title":"t-shirts ",
+    "amount": 35,
+    "img": "/src/assets/images/icons/tee.svg"
+},
+{
+    "key": 5,
+    "title":"Jacket ",
+    "amount": 16,
+    "img": "/src/assets/images/icons/jacket.svg"
+},
+{
+    "key": 6,
+    "title":"Watch ",
+    "amount": 27,
+    "img": "/src/assets/images/icons/watch.svg"
+},
+{
+    "key": 7,
+    "title":"Hat & Caps ",
+    "amount": 39,
+    "img": "/src/assets/images/icons/hat.svg"
+},
+{
+    "key":8,
+    "title":"Dress & Frock ",
+    "amount": 53,
+    "img": "/src/assets/images/icons/dress.svg"
+}
+]
